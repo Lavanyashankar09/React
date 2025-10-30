@@ -1,0 +1,6 @@
+CorrelationId: 81c8d8b7-2578-4ad7-814a-3474d0e06395
+UTC DateTime: 10/30/2025 17:59:11
+
+The following files/folders have not been downloaded
+0. next-app/.git/FETCH_HEAD
+1. next-app/.next/turbopack
